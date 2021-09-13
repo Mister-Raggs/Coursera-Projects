@@ -1,1 +1,1 @@
-
+These projects were part of the IBM Data Science Professional Certificate (Specialization) available on Coursera. In most scenarios we were given skeleton notebook and some prebuilt functions to enable students enrolled in the program to apply the knowledge learnt during the program.
